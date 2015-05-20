@@ -1,0 +1,9 @@
+body{
+	color: #0F1E26;
+	background-color: #FFFD20;
+	font-family: Helvetica, sans-serif;
+}
+
+#slogan{
+	font-style: italic;
+}
